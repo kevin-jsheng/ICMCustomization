@@ -1,3 +1,9 @@
+/*
+* 	is this a dojo class??
+*
+*
+*
+* */
 console.log("Getting inside the ICM Custom Plugin Scope");
 
 var icmContextRoot = "/ICMCustomWidgets";
