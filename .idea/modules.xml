@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Build/Build.iml" filepath="$PROJECT_DIR$/Build/Build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICMCustomPlugin/ICMCustomPlugin.iml" filepath="$PROJECT_DIR$/ICMCustomPlugin/ICMCustomPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICMCustomWidgets/ICMCustomWidgets.iml" filepath="$PROJECT_DIR$/ICMCustomWidgets/ICMCustomWidgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customWidget.iml" filepath="$PROJECT_DIR$/customWidget.iml" />
+    </modules>
+  </component>
+</project>
